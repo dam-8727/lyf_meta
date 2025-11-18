@@ -1,0 +1,23 @@
+{
+  "name": "Lyfe Health",
+  "symbol": "LYFL",
+  "description": "Lyfe Health demo token on Solana Devnet for Lyfelynk.",
+  "image": "https://raw.githubusercontent.com/<user>/lyfl-assets/main/lyfl_logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/<user>/lyfl-assets/main/lyfl_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "H8wyvztfDqkn36LWfKSKmHuqeGBXRz4V9a2aenRiAgsA",
+        "share": 100
+      }
+    ]
+  }
+}
